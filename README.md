@@ -17,11 +17,8 @@
 
 ---
 
-## 🖥️ Demo
 
-[Live Demo](#) *(Add your deployed app's link here)*
 
----
 
 ## ⚙️ Installation and Usage
 
