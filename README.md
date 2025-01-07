@@ -80,7 +80,7 @@ GenImage/
 ![User Input and Loader](https://raw.githubusercontent.com/shivanand143/GenImg/refs/heads/main/images/Screenshot%202025-01-07%20234807.png)
 
 ### AI Image Output
-![AI Image Output](https://via.placeholder.com/800x400)
+![AI Image Output](https://github.com/shivanand143/GenImg/blob/main/images/Screenshot%202025-01-07%20235007.png)
 
 ---
 
