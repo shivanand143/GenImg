@@ -29,7 +29,7 @@
 
 ### Clone the Repository
 ```bash
-git clone https://github.com/your-username/genimage.git
+git clone https://github.com/shivanand143/GenImg.git
 cd genimage
 ```
 
