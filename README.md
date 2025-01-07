@@ -109,9 +109,9 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## 👨‍💻 Author
 
 **Shivanand Pujari**  
-- 🌐 [Website](https://www.shivanandpujari.com)  
+- 🌐 [Website](https://www.jpegcompress.tech)  
 - 🐙 [GitHub](https://github.com/shivanand143)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/shivanandpujari/)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/143shiva)  
 
 ---
 
