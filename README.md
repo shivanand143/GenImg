@@ -77,7 +77,7 @@ GenImage/
 ## 📷 Screenshots
 
 ### User Input and Loader
-![User Input and Loader](https://via.placeholder.com/800x400)
+![User Input and Loader](https://raw.githubusercontent.com/shivanand143/GenImg/refs/heads/main/images/Screenshot%202025-01-07%20234807.png)
 
 ### AI Image Output
 ![AI Image Output](https://via.placeholder.com/800x400)
